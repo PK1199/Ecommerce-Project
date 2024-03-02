@@ -14,7 +14,7 @@ Utilized a dataset provided by the fictional Ecommerce company for regression ta
 ## Project Structure
 
 - **Notebooks:** [Explore the Jupyter notebook here.](Ecommerce%20Project.ipynb)
-- **Data:** [Link to the dataset used in the project.](./Data/)
+- **Data:** [Link to the dataset used in the project.](Ecommerce%20Customers)
 
 ## Dependencies
 
