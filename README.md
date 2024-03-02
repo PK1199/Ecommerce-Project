@@ -1,19 +1,14 @@
-# Ecommerce-Project
-A Data Science project based on Ecommerce
-
-Ecommerce Project.ipynb = PROJECT FILE (Jupyter Notebook)\
-Ecommerce Customers = CSV File (DATASET)
 # Ecommerce-Company-Analysis
 
-Welcome to the Ecommerce Company Analysis project repository. This project focuses on analyzing data from a fictional Ecommerce company to derive actionable insights for optimizing digital platforms and increasing revenue.
+Welcome to the E-commerce Company Analysis project repository. This project focuses on analyzing data from a fictional e-commerce company to derive actionable insights for optimizing digital platforms and increasing revenue.
 
 ## Project Overview
 
-Utilized a dataset provided by the fictional Ecommerce company for regression tasks, demonstrating proficiency in data analysis and machine learning techniques. Conducted exploratory data analysis to understand customer behavior and spending patterns. Trained a linear regression model to predict yearly spending based on various customer attributes, emphasizing feature importance and interpretability. Provided recommendations for improving the mobile app, website, and membership programs to drive higher spending and enhance customer satisfaction.
+Utilized a dataset provided by the fictional e-commerce company for regression tasks, demonstrating proficiency in data analysis and machine learning techniques. Conducted exploratory data analysis to understand customer behaviour and spending patterns. Trained a linear regression model to predict yearly spending based on various customer attributes, emphasizing feature importance and interpretability. Provided recommendations for improving the mobile app, website, and membership programs to drive higher spending and enhance customer satisfaction.
 
 ## Project Structure
 
-- **Notebooks:** [Explore the Jupyter notebook here.](Ecommerce%20Project.ipynb)
+- **Notebooks:** [Explore the Jupyter Notebook here.](Ecommerce%20Project.ipynb)
 - **Data:** [Link to the dataset used in the project.](Ecommerce%20Customers)
 
 ## Dependencies
